@@ -1,0 +1,3 @@
+Esse repositorio poderá ter um backup na nuvem
+O git será usado para ser criar branches desse mesmo repositório
+por enquanto só o js será usado, mas planejo usar html futuramente
